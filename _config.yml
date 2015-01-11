@@ -1,0 +1,12 @@
+# Site settings
+title: Скромный блог программиста
+email: bavadim@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+        Это блог о моем видении последних и не очень событий, трендов и технологий в мире ИТ.  
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bavadim.me" # the base hostname & protocol for your site
+twitter_username: JustVadik
+github_username:  bavadim
+
+# Build settings
+markdown: kramdown
