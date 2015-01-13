@@ -1,0 +1,21 @@
+User-agent: *
+
+Disallow: /css/
+
+Disallow: /data/
+
+Disallow: /assets/
+
+
+User-agent: Yandex
+
+Disallow: /css/
+
+Disallow: /data/
+
+Disallow: /assets/
+
+Host: bavadim.me
+
+Sitemap: http://bavadim.me/sitemap.xml
+
