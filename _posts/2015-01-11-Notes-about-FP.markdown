@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Заметки о функциональном программировании. Основы"
+title: "Заметки о функциональном программировании. Основы."
 comments: true
 categories: programming
 ---
