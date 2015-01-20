@@ -208,7 +208,7 @@ def sum(f: Int => Int)(a: Int, b: Int): Int =
 
 {% highlight scala %}
 
-def f(a1)...(an) = E
+def f(a1, ..., an) = E
 	
 def f = (a1 => (a2 => ... (an => E)...))
 	
@@ -289,7 +289,7 @@ def fixedPoint(f: Double => Double)(firstGuess: Double) = {
 	iterate(firstGuess)
 }
 	
-def sqrt(x: Double) = fixedPoint(x => y/x)(1)
+def sqrt(y: Double) = fixedPoint(x => y/x)(1)
 	
 sqrt(2) 
 	
