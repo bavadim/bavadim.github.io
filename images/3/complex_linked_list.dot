@@ -1,0 +1,27 @@
+graph BTree {
+        graph[bgcolor="transparent"]
+        node [shape=record];
+        Node1:f1 -- Node2;
+        Node1:f2 -- Node3;
+        Node2:f1 -- true;
+        Node2:f2 -- Node4;
+        Node4:f1 -- false;
+        Node4:f2 -- Nil1;
+        Node3:f1 -- Node5;
+        Node3:f2 -- Nil2;
+        Node5:f1 -- 3;
+        Node5:f2 -- Nil3;
+
+        Node1[label=" <f1> | <f2> "];
+        Node2[label=" <f1> | <f2> "];
+        Node3[label=" <f1> | <f2> "];
+        Node4[label=" <f1> | <f2> "];
+        Node5[label=" <f1> | <f2> "];
+
+        true[shape=circle];
+        false[shape=circle];
+        3[shape=circle];
+        Nil1[shape=circle];
+        Nil2[shape=circle];
+        Nil3[shape=circle];
+}

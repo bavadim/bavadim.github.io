@@ -1,0 +1,20 @@
+graph BTree {
+        5 -- 2;
+        5 -- 10;
+        2 -- Empty1;
+        2 -- 3 -- Empty6;
+        3 -- Empty7;
+        10 -- 8;
+        10 -- 11;
+        8 -- Empty2;
+        8 -- Empty3;
+        11 -- Empty4;
+        11 -- Empty5;
+        Empty1[label="Empty"];
+        Empty2[label="Empty"];
+        Empty3[label="Empty"];
+        Empty4[label="Empty"];
+        Empty5[label="Empty"];
+        Empty6[label="Empty"];
+        Empty7[label="Empty"];
+}
