@@ -194,7 +194,7 @@ class Cons(val head: Int, val tail: IntList) extends IntList {
 	def isEmpty = false
 }
 	
-class Nil extends IntList = {
+class Nil extends IntList {
 	def isEmpty: Boolean = true
 	def head: Nothing = throw new NoSuchElementException("Nil.head")
 	def tail: Nothing = throw new NoSuchElementException("Nil.tail")
@@ -237,7 +237,7 @@ class Cons[T](val head: T, val tail: List[T]) extends List[T] {
 	def isEmpty = false
 }
 	
-class Nil[T] extends List[T] = {
+class Nil[T] extends List[T] {
 	def isEmpty: Boolean = true
 	def head: Nothing = throw new NoSuchElementException("Nil.head") //Генерируется ошибка
 	def tail: Nothing = throw new NoSuchElementException("Nil.tail") //Про тип Nothing смотрите ниже
@@ -245,7 +245,7 @@ class Nil[T] extends List[T] = {
 
 {% endhighlight %}
 
-Осталось выяснить, как параметрический полиморфизм влияет на модель вычислений. Ответ - никак. Во время компиляции происходит генерация соответствующих функций и классов. В момент выполнения мы имеем программу без параметрического полиморфизма. Такой механизм работы с полиморфизмом называется *стиранием типов*. Стирание типов применяется, например, в Java, Scala, Haskell, ML, OCamel. Но есть языки сохраняющие аргумент типа в момент выполнения. Это, например, языки С++, С#, F#.
+Осталось выяснить, как параметрический полиморфизм влияет на модель вычислений. Ответ - никак. Во время компиляции происходит генерация соответствующих функций и классов. В момент выполнения мы имеем программу без параметрического полиморфизма. Такой механизм работы с полиморфизмом называется *стиранием типов*. Стирание типов применяется, например, в Java, Scala, Haskell, ML, OCamel. Но есть языки сохраняющие *параметр типа* до момента выполнения программы. Это, например, языки С++, С#, F#.
 
 Пока с полиморфизмом закончим. В других постах я еще вернусь к параметрическому полиморфизму.
 
