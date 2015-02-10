@@ -337,7 +337,7 @@ def isInstanceOf[T]: Boolean
 def asInstanceOf[T]: T
 {% endhighlight %}
 
-Эти методы позволят убрать из интерфейса методы `isNumber` и `isSum`. Нужно будет только изменить `eval`:
+Эти методы позволят убрать из интерфейса методы `isNumber`, `isSum` и им подобные. Нужно будет только изменить `eval`:
 
 {% highlight scala %}
 def eval(e: Expr): Int =
