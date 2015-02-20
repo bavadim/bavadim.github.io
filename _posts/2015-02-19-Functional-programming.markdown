@@ -90,10 +90,10 @@ $$
 \begin{align*}
         ((x \mathrel{::} xs) ⧺ ys) ⧺ zs &=  (x \mathrel{::} xs) ⧺ (ys ⧺ zs):\\
         \\
-        ((x \mathrel{::} xs) ⧺ ys) ⧺ zs &= \text{(по 2-у случайу)} = (x \mathrel{::} (xs ⧺ ys)) ⧺ zs \\
-        &= \text{(по 2-у случайу)} = x \mathrel{::} ((xs ⧺ ys) ⧺ zs) \\
+        ((x \mathrel{::} xs) ⧺ ys) ⧺ zs &= \text{(по 2-у случаю)} = (x \mathrel{::} (xs ⧺ ys)) ⧺ zs \\
+        &= \text{(по 2-у случаю)} = x \mathrel{::} ((xs ⧺ ys) ⧺ zs) \\
         &= \text{(по гипотезе индукции)} = x \mathrel{::} (xs ⧺ (ys ⧺ zs)) \\
-        &= \text{(в обратном направлении по 2-у случайу)} = (x \mathrel{::} xs) ⧺ (ys ⧺ zs) \\
+        &= \text{(в обратном направлении по 2-у случаю)} = (x \mathrel{::} xs) ⧺ (ys ⧺ zs) \\
 \end{align*}
 $$
 
