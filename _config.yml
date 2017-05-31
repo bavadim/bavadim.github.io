@@ -15,5 +15,5 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-highlighter: pygments
+highlighter: rouge
 github: git@github.com:bavadim/bavadim.github.io.git
