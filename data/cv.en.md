@@ -14,9 +14,7 @@ Scala, SciPy, TensorFlow, Natural Language Processing, Natural Language Toolkit 
 
 I have developed some projects from scratch. You can estimate my practical skills on them:
 
-* [http://smartnalog.ru](smartnalog.ru) is a knowledge base on Russian tax law developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (fasttext, WMD) to select an article from knowledge base that is appropriate for the user's question. The question is forwarded to the lawyer if no article is found. This answer is remembered. Thus, I managed to create a database of answers in two months. Technological stack: python, typescript, tensorflow.
-* [https://declaration.fastlaw.io](https://declaration.fastlaw.io) is a service for the quick creation of Tax returns. This service uses AI technologies to extract information from photos. You just need to upload photos of your documents, answer a couple of questions and wait for the system to create all the necessary documents. This software helps you to save about 50 minutes on a Tax return.
-Technological stack: scala, typescript, python, tensorflow.
+* [http://smartnalog.ru](smartnalog.ru) is a knowledge base on Russian tax law developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (USE, ODQA) to select an article from knowledge base that is appropriate for the user's question. The question is forwarded to the lawyer if no article is found. This answer is remembered. Thus, I managed to create a database of answers in two months. Technological stack: python, typescript, tensorflow.
 
 ## Publications
 
