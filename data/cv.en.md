@@ -1,4 +1,4 @@
-# BackEnd NLP engineer
+# NLP engineer
 
 ## Summary
 
@@ -21,16 +21,16 @@ I have developed some projects from scratch. You can estimate my practical skill
 | date | source | article name |
 | --- | --- | --- |
 | 2017 | [The NIPS '17 Competition: Building Intelligent Systems](https://docs.google.com/viewer?a=v&pid=sites&srcid=Y2hhbGVhcm4ub3JnfHdvcmtzaG9wfGd4Ojc5ZjI4MGYzMDE2MzU4NjQ) | Competition on Automatic Evaluation of Dialogue Quality |
-| 2018 | [Радио Медиаметрикс](https://radio.mediametrics.ru/dossier/14112/) | МАШИННОЕ ОБУЧЕНИЕ В ЮРИСПРУДЕНЦИИ |
+| 2018 | [Radio Metrix](https://radio.mediametrics.ru/dossier/14112/) | Machine learning in law |
 
 ## Work history
 
 | employment period | name of organization | position | duties/achievements |
 | --- | --- | --- | --- |
-| 2017 - 2020 | [DeepPavlov](http://ipavlov.ai/) | chief engineer | We were developing an open-source framework for building chatbots. Our framework includes state-of-the-art NLP models. I lead the department creating the final solutions based on the framework. |
-| 2015 - 2017 | [Raiffeisen Bank](https://www.raiffeisen.ru) | senior lead developer | I have been engaged in the development of mission-critical services: authorization, monitoring, and data storage. |
-| 2012 - 2015 | [Edisoft Development ltd.](https://ediweb.com) | system architect | Head of the research, development and prototyping architecture of electronic document interchange services. |
-| 2011 — 2012 | [Acronis ltd.](http://www.acronis.com) | software engineer | Participated in the development of Acronis Backup and Recovery for Linux as a regular developer. Moreover, I was a release manager and manage codebase of Acronis Backup and Recovery project (~90GB in SVN repo). |
+| 2017 - 2020 | [DeepPavlov](http://ipavlov.ai/) | chief engineer | We were developing an open-source framework for building chatbots. Our framework includes state-of-the-art NLP models. I leaded the department of business solutions. |
+| 2015 - 2017 | [Raiffeisen Bank](https://www.raiffeisen.ru) | senior lead developer | I was a developer engaged in the development of mission-critical services: authorization, monitoring, and data storage. |
+| 2012 - 2015 | [Edisoft Development ltd.](https://ediweb.com) | system architect | Head of the R&D department. I have prototyped several products, e.g. AlfaFactoring platform. |
+| 2011 — 2012 | [Acronis ltd.](http://www.acronis.com) | software engineer | Participated in the development of Acronis Backup and Recovery for Linux as a regular developer. Moreover, I was a release manager and manage codebase of the Acronis Backup and Recovery project (~90GB in SVN repo). |
 | 2008 - 2010 | [Moscow Power Engineering Institute](https://mpei.ru/lang/en/Pages/default.aspx) | developer | Participated in the development software for the Russian Ministry of Education. |
 
 ## Education
@@ -43,6 +43,7 @@ I have developed some projects from scratch. You can estimate my practical skill
 | 2013          | [udacity.com](https://www.udacity.com)                                          | Artificial Intelligence for Robotics |
 | 2014          | [Coursera.org](https://www.coursera.org)                                        | Machine Learning |
 | 2014          | [Coursera.org](https://www.coursera.org)                                        | Functional Programming Principles in Scala |
+| 2017          | HSE (https://www.hse.ru/)                                                       | Masters Degree in Artificial Intelligence |
 
 ## About me
 
