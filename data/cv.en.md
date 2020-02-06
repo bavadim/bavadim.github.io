@@ -35,7 +35,7 @@ I have developed several projects from scratch, including projects for large com
 
 | year of graduation | school | degree |
 | --- | --- | --- |
-| 2010          | Moscow Power Engineering Institute | Masters Degree in Computer Science |
+| 2010          | [MPEI](https://mpei.ru/lang/en/Pages/default.aspx)                              | Masters Degree in Computer Science |
 | 2011          | [udacity.com](https://www.udacity.com)                                          | Artificial Intelligence |
 | 2012          | [Coursera.org](https://www.coursera.org)                                        | Software Engineering for SaaS |
 | 2013          | [udacity.com](https://www.udacity.com)                                          | Artificial Intelligence for Robotics |
