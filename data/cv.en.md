@@ -12,9 +12,7 @@ Scala, SciPy, TensorFlow, Natural Language Processing, Natural Language Toolkit 
 
 ## Projects
 
-I have developed some projects from scratch. You can estimate my practical skills on them:
-
-* [http://smartnalog.ru](smartnalog.ru) is a knowledge base on Russian tax law developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (USE, ODQA) to select an article from knowledge base that is appropriate for the user's question. The question is forwarded to the lawyer if no article is found. This answer is remembered. Thus, I managed to create a database of answers in two months. Technological stack: python, typescript, tensorflow.
+I have developed several projects from scratch, including projects for large companies such as Sberbank, Russian Railways, Rospechat. For example, this one: [http://smartnalog.ru](smartnalog.ru). This is a knowledge base on Russian tax law, developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (USE, ODQA) to select an article from text knowledge base. The question is forwarded to the lawyer if no article is found. Technological stack: python, typescript, tensorflow.
 
 ## Publications
 
@@ -43,7 +41,7 @@ I have developed some projects from scratch. You can estimate my practical skill
 | 2013          | [udacity.com](https://www.udacity.com)                                          | Artificial Intelligence for Robotics |
 | 2014          | [Coursera.org](https://www.coursera.org)                                        | Machine Learning |
 | 2014          | [Coursera.org](https://www.coursera.org)                                        | Functional Programming Principles in Scala |
-| 2017          | HSE (https://www.hse.ru/)                                                       | Masters Degree in Artificial Intelligence |
+| 2017          | [HSE](https://www.hse.ru/)                                                      | Masters Degree in Artificial Intelligence |
 
 ## About me
 
