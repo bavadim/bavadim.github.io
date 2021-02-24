@@ -18,7 +18,7 @@ Python, PyTorch, TensorFlow, Natural Language Processing, Scala, Akka, pandas, A
 
 ## Projects
 
-I have developed several projects from scratch, including projects for large companies such as Sberbank, Russian Railways, Rospechat. For example, this one: [http://smartnalog.ru](smartnalog.ru). This is a knowledge base on Russian tax law, developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (USE, ODQA) to select an article from text knowledge base. The question is forwarded to the lawyer if no article is found. Technological stack: python, typescript, tensorflow.
+I have developed several projects from scratch, including projects for large companies such as Sberbank, Russian Railways, Rospechat. For example, this one: [http://demo.fastlaw.io:8080/](demo.fastlaw.io). This is a knowledge base, developed by me from scratch in 3 months. The main challenge of the project was the development of a search engine. This search engine uses AI technologies (USE, ODQA) to select an article from text knowledge base. The question is forwarded to the operator if no article is found. Technological stack: python, typescript, tensorflow.
 
 Another projects you can find on [my github](github.com/bavadim).
 
