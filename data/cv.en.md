@@ -14,7 +14,7 @@ I am an experienced engineer with 10 years of experience. I have created several
 
 ## Core skills
 
-Scala, SciPy, TensorFlow, Natural Language Processing, Natural Language Toolkit (NLTK), Akka, Play Framework, pandas, Apache Spark, Chatbot Development.
+Python, PyTorch, TensorFlow, Natural Language Processing, Scala, Akka, pandas, Apache Spark, Chatbot Development, Statistics.
 
 ## Projects
 
@@ -33,6 +33,7 @@ Another projects you can find on [my github](github.com/bavadim).
 
 | employment period | name of organization | position | duties/achievements |
 | --- | --- | --- | --- |
+| 2020 - 2021 | [Sberbank](https://www.sberbank.com/) | TechLead | I was engaged in development of ML components and  business analysis for bank skills of the Salut virtual assistant. I have organized an analytic pipeline (which includes stages with manual work, ~20 people engaged in a process) for monitoring  users' statisfaction and detecting product problems. Apart from this, I was enganged in a process of support and continuous quality improvment  of ML components of the Salut assistant. |
 | 2018 - 2020 | [fastlaw.io](https://fastlaw.io/) | CTO | I am the founder of fastlaw.io. My company offers consulting services and we are creating NLP-based products for EDI automation. |
 | 2017 - 2020 | [DeepPavlov](http://ipavlov.ai/) | chief engineer | We were developing an open-source framework for building chatbots. Our framework includes state-of-the-art NLP models. I led the department of business solutions. In this position, I was responsible for analytics and the technical implementation of user products. |
 | 2015 - 2017 | [Raiffeisen Bank](https://www.raiffeisen.ru) | senior developer | I was a developer engaged in the development of mission-critical services of Raiffeisen business online platform: authorization, monitoring, and data storage. We used Scala, Akka, Play framework. In this position, I got experience with SQRS, CRDT and Event sourcing patterns. |
